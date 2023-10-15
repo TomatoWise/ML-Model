@@ -26,7 +26,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 # Load the dataset
-data = pd.read_csv("..\datasets\Fertilizer Prediction.csv")
+data = pd.read_csv("datasets/Fertilizer Prediction.csv")
 
 # Define a function to predict fertilizer
 def predict_fertilizer(temperature, humidity, moisture, soil_type, crop_type, nitrogen, potassium, phosphorous):
