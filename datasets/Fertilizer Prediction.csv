@@ -1,100 +1,100 @@
-Temperature,Humidity,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorous,Fertilizer Name
-26,52,38,Sandy,Early Girl,37,0,0,Urea
-29,52,45,Loamy,Roma,12,0,36,DAP
-34,65,62,Black,Pusa Ruby,7,9,30,14-35-14
-32,62,34,Red,Marglobe,22,0,20,28-28
-28,54,46,Clayey,Amish Paste,35,0,0,Urea
-26,52,35,Sandy,Early Girl,12,10,13,17-17-17
-25,50,64,Red,Marglobe,9,0,10,20-20
-33,64,50,Loamy,Roma,41,0,0,Urea
-30,60,42,Sandy,Early Girl,21,0,18,28-28
-29,58,33,Black,Pusa Ruby,9,7,30,14-35-14
-27,54,28,Clayey,Amish Paste,13,0,40,DAP
-31,62,48,Sandy,Early Girl,14,15,12,17-17-17
-25,50,65,Loamy,Roma,36,0,0,Urea
-32,62,41,Clayey,Amish Paste,24,0,22,28-28
-26,52,31,Red,Marglobe,14,0,41,DAP
-31,62,49,Black,Pusa Ruby,10,13,14,17-17-17
-33,64,34,Clayey,Amish Paste,38,0,0,Urea
-25,50,39,Sandy,Early Girl,21,0,19,28-28
-28,54,65,Black,Pusa Ruby,39,0,0,Urea
-29,58,52,Loamy,Roma,13,0,36,DAP
-30,60,44,Sandy,Early Girl,10,0,9,20-20
-34,65,53,Loamy,Roma,12,14,12,17-17-17
-35,68,33,Red,Marglobe,11,0,37,DAP
-28,54,37,Black,Pusa Ruby,36,0,0,Urea
-33,64,39,Clayey,Amish Paste,13,0,10,20-20
-26,52,44,Sandy,Early Girl,23,0,20,28-28
-30,60,63,Red,Marglobe,9,9,29,14-35-14
-32,62,30,Loamy,Roma,38,0,0,Urea
-37,70,32,Black,Pusa Ruby,12,0,39,DAP
-26,52,36,Clayey,Amish Paste,14,0,13,20-20
-29,58,40,Red,Marglobe,24,0,23,28-28
-30,60,27,Loamy,Roma,12,0,40,DAP
-34,65,38,Clayey,Amish Paste,39,0,0,Urea
-36,68,38,Sandy,Early Girl,7,9,30,14-35-14
-26,52,48,Loamy,Roma,23,0,19,28-28
-28,54,35,Black,Pusa Ruby,41,0,0,Urea
-30,60,61,Loamy,Cherokee Purple,8,10,31,14-35-14
-37,70,37,Clayey,Amish Paste,12,0,41,DAP
-25,50,26,Red,Marglobe,15,14,11,17-17-17
-29,58,34,Sandy,Early Girl,15,0,37,DAP
-27,54,30,Clayey,Amish Paste,13,0,13,20-20
-30,60,58,Loamy,Roma,10,7,32,14-35-14
-32,62,34,Red,Marglobe,22,0,24,28-28
-34,65,60,Black,Pusa Ruby,35,0,0,Urea
-35,67,42,Sandy,Early Girl,10,0,35,DAP
-38,70,48,Loamy,Roma,8,8,28,14-35-14
-26,52,32,Black,Cherokee Purple,12,0,8,20-20
-29,58,43,Clayey,Amish Paste,24,0,18,28-28
-30,60,29,Red,Marglobe,41,0,0,Urea
-33,64,51,Sandy,Early Girl,5,9,29,14-35-14
-34,65,31,Red,Cherokee Purple,23,0,21,28-28
-36,68,33,Black,Cherokee Purple,13,0,14,20-20
-28,54,38,Clayey,Amish Paste,40,0,0,Urea
-30,60,47,Sandy,Early Girl,12,0,42,DAP
-31,62,63,Red,Marglobe,11,12,15,17-17-17
-27,53,43,Black,Pusa Ruby,23,0,24,28-28
-34,65,54,Loamy,Roma,38,0,0,Urea
-29,58,37,Sandy,Cherokee Purple,8,0,15,20-20
-25,50,56,Loamy,Cherokee Purple,11,13,15,17-17-17
-32,62,34,Red,Cherokee Purple,15,0,37,DAP
-28,54,41,Clayey,Cherokee Purple,36,0,0,Urea
-30,60,49,Loamy,Cherokee Purple,13,0,9,20-20
-34,65,64,Black,Cherokee Purple,24,0,20,28-28
-28,54,47,Sandy,Cherokee Purple,5,18,15,10-26-26
-27,53,35,Black,Cherokee Purple,37,0,0,Urea
-36,68,62,Red,Cherokee Purple,15,0,40,DAP
-34,65,57,Black,Cherokee Purple,9,0,13,20-20
-29,58,55,Loamy,Cherokee Purple,8,8,33,14-35-14
-25,50,40,Clayey,Cherokee Purple,6,19,16,10-26-26
-30,60,38,Sandy,Cherokee Purple,10,0,14,20-20
-26,52,39,Clayey,Cherokee Purple,21,0,23,28-28
-31,62,32,Red,Cherokee Purple,39,0,0,Urea
-34,65,48,Loamy,Cherokee Purple,23,0,19,28-28
-27,53,34,Black,Cherokee Purple,42,0,0,Urea
-33,64,31,Red,Cherokee Purple,13,0,39,DAP
-29,58,42,Clayey,Cherokee Purple,9,10,22,14-35-14
-30,60,47,Sandy,Cherokee Purple,22,0,21,28-28
-27,53,59,Loamy,Cherokee Purple,10,0,15,20-20
-26,52,36,Clayey,Cherokee Purple,7,16,20,10-26-26
-34,65,63,Red,Cherokee Purple,14,0,38,DAP
-28,54,43,Clayey,Cherokee Purple,10,8,29,14-35-14
-30,60,40,Sandy,Cherokee Purple,41,0,0,Urea
-29,58,65,Black,Cherokee Purple,14,0,35,DAP
-26,52,59,Loamy,Cherokee Purple,11,0,9,20-20
-31,62,44,Sandy,Cherokee Purple,21,0,28,28-28
-35,67,28,Clayey,Cherokee Purple,8,7,31,14-35-14
-29,58,30,Red,Cherokee Purple,13,17,16,10-26-26
-27,53,30,Black,Cherokee Purple,35,0,0,Urea
-36,68,50,Loamy,Cherokee Purple,12,18,19,10-26-26
-29,58,61,Loamy,Cherokee Purple,11,0,38,DAP
-30,60,26,Black,Cherokee Purple,8,9,30,14-35-14
-34,65,45,Clayey,Cherokee Purple,6,19,21,10-26-26
-36,68,41,Red,Cherokee Purple,41,0,0,Urea
-28,54,25,Sandy,Cherokee Purple,9,10,30,14-35-14
-25,50,32,Clayey,Cherokee Purple,24,0,19,28-28
-30,60,27,Red,Cherokee Purple,4,17,17,10-26-26
-38,72,51,Loamy,Cherokee Purple,39,0,0,Urea
-36,60,43,Sandy,Cherokee Purple,15,0,41,DAP
-29,58,57,Black,Cherokee Purple,12,0,10,20-20
+Temperature, Humidity, Moisture, Soil Type, Crop Type, Nitrogen, Potassium, Phosphorous, Fertilizer Name
+26, 52, 38, Sandy, Early Girl, 37, 0, 0, Urea
+29, 52, 45, Loamy, Roma, 12, 0, 36, DAP
+34, 65, 62, Black, Pusa Ruby, 7, 9, 30, 14-35-14
+32, 62, 34, Red, Marglobe, 22, 0, 20, 28-28
+28, 54, 46, Clayey, Amish Paste, 35, 0, 0, Urea
+26, 52, 35, Sandy, Early Girl, 12, 10, 13, 17-17-17
+25, 50, 64, Red, Marglobe, 9, 0, 10, 20-20
+33, 64, 50, Loamy, Roma, 41, 0, 0, Urea
+30, 60, 42, Sandy, Early Girl, 21, 0, 18, 28-28
+29, 58, 33, Black, Pusa Ruby, 9, 7, 30, 14-35-14
+27, 54, 28, Clayey, Amish Paste, 13, 0, 40, DAP
+31, 62, 48, Sandy, Early Girl, 14, 15, 12, 17-17-17
+25, 50, 65, Loamy, Roma, 36, 0, 0, Urea
+32, 62, 41, Clayey, Amish Paste, 24, 0, 22, 28-28
+26, 52, 31, Red, Marglobe, 14, 0, 41, DAP
+31, 62, 49, Black, Pusa Ruby, 10, 13, 14, 17-17-17
+33, 64, 34, Clayey, Amish Paste, 38, 0, 0, Urea
+25, 50, 39, Sandy, Early Girl, 21, 0, 19, 28-28
+28, 54, 65, Black, Pusa Ruby, 39, 0, 0, Urea
+29, 58, 52, Loamy, Roma, 13, 0, 36, DAP
+30, 60, 44, Sandy, Early Girl, 10, 0, 9, 20-20
+34, 65, 53, Loamy, Roma, 12, 14, 12, 17-17-17
+35, 68, 33, Red, Marglobe, 11, 0, 37, DAP
+28, 54, 37, Black, Pusa Ruby, 36, 0, 0, Urea
+33, 64, 39, Clayey, Amish Paste, 13, 0, 10, 20-20
+26, 52, 44, Sandy, Early Girl, 23, 0, 20, 28-28
+30, 60, 63, Red, Marglobe, 9, 9, 29, 14-35-14
+32, 62, 30, Loamy, Roma, 38, 0, 0, Urea
+37, 70, 32, Black, Pusa Ruby, 12, 0, 39, DAP
+26, 52, 36, Clayey, Amish Paste, 14, 0, 13, 20-20
+29, 58, 40, Red, Marglobe, 24, 0, 23, 28-28
+30, 60, 27, Loamy, Roma, 12, 0, 40, DAP
+34, 65, 38, Clayey, Amish Paste, 39, 0, 0, Urea
+36, 68, 38, Sandy, Early Girl, 7, 9, 30, 14-35-14
+26, 52, 48, Loamy, Roma, 23, 0, 19, 28-28
+28, 54, 35, Black, Pusa Ruby, 41, 0, 0, Urea
+30, 60, 61, Loamy, Cherokee Purple, 8, 10, 31, 14-35-14
+37, 70, 37, Clayey, Amish Paste, 12, 0, 41, DAP
+25, 50, 26, Red, Marglobe, 15, 14, 11, 17-17-17
+29, 58, 34, Sandy, Early Girl, 15, 0, 37, DAP
+27, 54, 30, Clayey, Amish Paste, 13, 0, 13, 20-20
+30, 60, 58, Loamy, Roma, 10, 7, 32, 14-35-14
+32, 62, 34, Red, Marglobe, 22, 0, 24, 28-28
+34, 65, 60, Black, Pusa Ruby, 35, 0, 0, Urea
+35, 67, 42, Sandy, Early Girl, 10, 0, 35, DAP
+38, 70, 48, Loamy, Roma, 8, 8, 28, 14-35-14
+26, 52, 32, Black, Cherokee Purple, 12, 0, 8, 20-20
+29, 58, 43, Clayey, Amish Paste, 24, 0, 18, 28-28
+30, 60, 29, Red, Marglobe, 41, 0, 0, Urea
+33, 64, 51, Sandy, Early Girl, 5, 9, 29, 14-35-14
+34, 65, 31, Red, Cherokee Purple, 23, 0, 21, 28-28
+36, 68, 33, Black, Cherokee Purple, 13, 0, 14, 20-20
+28, 54, 38, Clayey, Amish Paste, 40, 0, 0, Urea
+30, 60, 47, Sandy, Early Girl, 12, 0, 42, DAP
+31, 62, 63, Red, Marglobe, 11, 12, 15, 17-17-17
+27, 53, 43, Black, Pusa Ruby, 23, 0, 24, 28-28
+34, 65, 54, Loamy, Roma, 38, 0, 0, Urea
+29, 58, 37, Sandy, Early Girl, 8, 0, 15, 20-20
+25, 50, 56, Loamy, Roma, 11, 13, 15, 17-17-17
+32, 62, 34, Red, Pusa Ruby, 15, 0, 37, DAP
+28, 54, 41, Clayey, Amish Paste, 36, 0, 0, Urea
+30, 60, 49, Loamy, Roma, 13, 0, 9, 20-20
+34, 65, 64, Black, Cherokee Purple, 24, 0, 20, 28-28
+28, 54, 47, Sandy, Marglobe, 5, 18, 15, 10-26-26
+27, 53, 35, Black, Cherokee Purple, 37, 0, 0, Urea
+36, 68, 62, Red, Marglobe, 15, 0, 40, DAP
+34, 65, 57, Black, Cherokee Purple, 9, 0, 13, 20-20
+29, 58, 55, Loamy, Marglobe, 8, 8, 33, 14-35-14
+25, 50, 40, Clayey, Amish Paste, 6, 19, 16, 10-26-26
+30, 60, 38, Sandy, Early Girl, 10, 0, 14, 20-20
+26, 52, 39, Clayey, Pusa Ruby, 21, 0, 23, 28-28
+31, 62, 32, Red, Amish Paste, 39, 0, 0, Urea
+34, 65, 48, Loamy, Roma, 23, 0, 19, 28-28
+27, 53, 34, Black, Cherokee Purple, 42, 0, 0, Urea
+33, 64, 31, Red, Amish Paste, 13, 0, 39, DAP
+29, 58, 42, Clayey, Marglobe, 9, 10, 22, 14-35-14
+30, 60, 47, Sandy, Early Girl, 22, 0, 21, 28-28
+27, 53, 59, Loamy, Roma, 10, 0, 15, 20-20
+26, 52, 36, Clayey, Pusa Ruby, 7, 16, 20, 10-26-26
+34, 65, 63, Red, Marglobe, 14, 0, 38, DAP
+28, 54, 43, Clayey, Amish Paste, 10, 8, 29, 14-35-14
+30, 60, 40, Sandy, Early Girl, 41, 0, 0, Urea
+29, 58, 65, Black, Cherokee Purple, 14, 0, 35, DAP
+26, 52, 59, Loamy, Roma, 11, 0, 9, 20-20
+31, 62, 44, Sandy, Marglobe, 21, 0, 28, 28-28
+35, 67, 28, Clayey, Amish Paste, 8, 7, 31, 14-35-14
+29, 58, 30, Red, Early Girl, 13, 17, 16, 10-26-26
+27, 53, 30, Black, Cherokee Purple, 35, 0, 0, Urea
+36, 68, 50, Loamy, Marglobe, 12, 18, 19, 10-26-26
+29, 58, 61, Loamy, Roma, 11, 0, 38, DAP
+30, 60, 26, Black, Amish Paste, 8, 9, 30, 14-35-14
+34, 65, 45, Clayey, Pusa Ruby, 6, 19, 21, 10-26-26
+36, 68, 41, Red, Early Girl, 41, 0, 0, Urea
+28, 54, 25, Sandy, Cherokee Purple, 9, 10, 30, 14-35-14
+25, 50, 32, Clayey, Cherokee Purple, 24, 0, 19, 28-28
+30, 60, 27, Red, Cherokee Purple, 4, 17, 17, 10-26-26
+38, 72, 51, Loamy, Cherokee Purple, 39, 0, 0, Urea
+36, 60, 43, Sandy, Cherokee Purple, 15, 0, 41, DAP
+29, 58, 57, Black, Cherokee Purple, 12, 0, 10, 20-20

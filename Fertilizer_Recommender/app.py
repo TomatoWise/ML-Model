@@ -3,9 +3,31 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.tree import DecisionTreeClassifier
 import joblib
-
+# Set the page configuration
+st.set_page_config(
+    page_title="Fertilizer Recommender",
+    page_icon="🌱",
+    layout="centered",
+)
+st.markdown(
+    """
+    <style>
+    .css-3p7mub {
+        background-color: #f9f9f9;  /* Cream */
+    }
+    .css-1v8g2vv {
+        background-color: #a6c0e2;  /* Light Blue */
+    }
+    .css-1i0ljje {
+        background-color: #d8d8d8;  /* Grey */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 # Load the dataset
-data = pd.read_csv("..\datasets\Fertilizer Prediction.csv")  
+data = pd.read_csv("..\datasets\Fertilizer Prediction.csv")
+
 # Define a function to predict fertilizer
 def predict_fertilizer(temperature, humidity, moisture, soil_type, crop_type, nitrogen, potassium, phosphorous):
     # Label encoding for categorical features
