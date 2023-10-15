@@ -50,7 +50,7 @@ le_soil.fit(data['Soil Type'])
 le_crop.fit(data['Crop Type'])
 
 # Load the trained model
-model = joblib.load("Fertilizer.pkl")
+model = joblib.load("Fertilizer_Recommender/Fertilizer.pkl")
 
 # Create a Streamlit web app
 st.title("Fertilizer Recommender")
