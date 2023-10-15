@@ -1,5 +1,6 @@
 # Fertilizer Recommendation App
-This Streamlit web application helps farmers and gardeners recommend suitable fertilizers for their crops based on input parameters such as temperature, humidity, moisture, soil type, crop type, nitrogen, potassium, and phosphorous levels.
+## We help you through your tomato cultivation 
+This Streamlit web application helps farmers and gardeners recommend suitable fertilizers for their crops based on input parameters such as temperature, humidity, moisture, soil type,tomato crop type, nitrogen, potassium, and phosphorous levels.
 
 **Access the deployed app [here](https://fertilizer-site.streamlit.app/)**
 
