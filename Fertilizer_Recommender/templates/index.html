@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fertilizer Recommender</title>
+</head>
+<body>
+    <h1>Fertilizer Recommender</h1>
+    <form method="POST">
+        <label for="temperature">Temperature:</label>
+        <input type="text" name="temperature" required><br>
+        <label for="humidity">Humidity:</label>
+        <input type="text" name="humidity" required><br>
+        <label for="moisture">Moisture:</label>
+        <input type="text" name="moisture" required><br>
+        <label for="soil_type">Soil Type:</label>
+        <select name="soil_type" required>
+            <option value="Sandy">Sandy</option>
+            <option value="Loamy">Loamy</option>
+            <option value="Red">Red</option>
+            <option value="Black">Black</option>
+            <option value="Clayey">Clayey</option>
+        </select><br>
+        <label for="crop_type">Crop Type:</label>
+        <select name="crop_type" required>
+            <option value="Early Girl">Early Girl</option>
+            <option value="Roma">Roma</option>
+            <option value="Pusa Ruby">Pusa Ruby</option>
+            <option value="Marglobe">Marglobe</option>
+            <option value="Amish Paste">Amish Paste</option>
+            <option value="Cherokee Purple">Cherokee Purple</option>
+        </select><br>
+        <label for="nitrogen">Nitrogen Level:</label>
+        <input type="text" name="nitrogen" required><br>
+        <label for="phosphorus">Phosphorus Level:</label>
+        <input type="text" name="phosphorus" required><br>
+        <label for="potassium">Potassium Level:</label>
+        <input type="text" name="potassium" required><br>
+        <button type="submit">Recommend Fertilizer</button>
+    </form>
+
+    {% if recommendation %}
+    <h2>Recommended Fertilizer:</h2>
+    <p>{{ recommendation }}</p>
+    {% endif %}
+</body>
+</html>
