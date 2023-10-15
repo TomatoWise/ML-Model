@@ -26,9 +26,9 @@ To run this app locally, make sure you have Python and Streamlit installed. Then
 3. Install the required Python packages:
 
 ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   pip install -r requirements.txt
 ```
 4. Run the Streamlit app:
 ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   streamlit run app.py
 ```
